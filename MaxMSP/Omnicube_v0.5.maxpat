@@ -203,13 +203,13 @@
 					"fontface" : 0,
 					"fontsize" : 12.0,
 					"id" : "obj-124",
-					"linecount" : 4,
+					"linecount" : 5,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 766.666748, 56.0, 294.0, 60.0 ],
+					"patching_rect" : [ 766.666748, 43.0, 294.0, 74.0 ],
 					"style" : "",
-					"text" : "by Maximilian Weber, Berlin, 2016\nnichtdersoziologe.de\n\nPeace."
+					"text" : "by Maximilian Weber, Berlin, 2016\nnichtdersoziologe.de\nhttps://github.com/xhain/webe.omnibox\n\nPeace."
 				}
 
 			}
@@ -221,7 +221,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 766.666748, 20.0, 294.0, 33.0 ],
+					"patching_rect" : [ 766.666748, 7.0, 294.0, 33.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 14.666748, 9.5625, 294.0, 33.0 ],
 					"style" : "",
@@ -245,7 +245,7 @@
 ,
 					"style" : "",
 					"text" : "pattrstorage",
-					"varname" : "u759003640"
+					"varname" : "u768006339"
 				}
 
 			}
@@ -289,7 +289,7 @@
 ,
 					"style" : "",
 					"text" : "autopattr",
-					"varname" : "u604004586"
+					"varname" : "u129007283"
 				}
 
 			}
